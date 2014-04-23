@@ -14,6 +14,12 @@ body {
 header {
 	height: 164px;
 }
+nav {
+	height: 800px;
+}
+footer {
+	height: 100px;
+}
 a {
 	text-decoration: none; /*Запретить подчеркивание ссылок*/
 }
@@ -75,9 +81,6 @@ a {
 }
 .text_menu {
 	color: #FFF;
-}
-#content {
-	height: 800px;
 }
 #button1 {
 	background: url("../images/bg_button.png");
@@ -206,9 +209,6 @@ a {
 	float: left;
 	margin-top: 70px;
 	margin-left: 80px;
-}
-#footer {
-	height: 100px;
 }
 #copyright {
 	margin:0 43% 0 43%;
