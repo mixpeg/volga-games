@@ -1,6 +1,7 @@
 * {
 	margin-top: 0px;
-	text-decoration: none;argin-right: 0px;
+	text-decoration: none;
+	margin-right: 0px;
 	margin-left: 0px;
 	margin-bottom: 0px;
 	padding: 0;
@@ -31,27 +32,7 @@ a {
 	-ms-border-radius: 3px;
 	-khtml-border-radius: 3px;
 }
-#page_align {
-	width: 1152px; /*Ширина страницы*/
-	margin: 30px auto; /*По центру*/
-	background: #FFF;
-	box-shadow: 1px 1px 3px #000;
-	-webkit-box-shadow: 1px 1px 3px #000;
-	-o-box-shadow: 1px 1px 3px #000;
-	-moz-box-shadow: 1px 1px 1px #000;
-	overflow: hidden;
-}
-#page_align1 {
-	width: 1152px; /*Ширина страницы*/
-	margin: 30px auto; /*По центру*/
-	background: #FFF;
-	box-shadow: 1px 1px 3px #000;
-	-webkit-box-shadow: 1px 1px 3px #000;
-	-o-box-shadow: 1px 1px 3px #000;
-	-moz-box-shadow: 1px 1px 1px #000;
-	overflow: hidden;
-}
-#page_align_footer {
+.page_align {
 	width: 1152px; /*Ширина страницы*/
 	margin: 30px auto; /*По центру*/
 	background: #FFF;
