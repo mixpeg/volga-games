@@ -26,20 +26,12 @@ a {
 }
 .b3radius {
 	border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-o-border-radius: 3px;
-	-moz-border-radius: 3px;
-	-ms-border-radius: 3px;
-	-khtml-border-radius: 3px;
 }
 .page_align {
 	width: 1152px; /*Ширина страницы*/
 	margin: 30px auto; /*По центру*/
 	background: #FFF;
 	box-shadow: 1px 1px 3px #000;
-	-webkit-box-shadow: 1px 1px 3px #000;
-	-o-box-shadow: 1px 1px 3px #000;
-	-moz-box-shadow: 1px 1px 1px #000;
 	overflow: hidden;
 }
 .shadow {
